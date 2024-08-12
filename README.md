@@ -15,6 +15,10 @@
 
 ![Задание 1-2 ](https://github.com/Markin-AI/10-1/blob/main/img/1-2.png)
 
+![Задание 1-3 ](https://github.com/Markin-AI/10-1/blob/main/img/1-3.png)
+
+![Задание 1-4 ](https://github.com/Markin-AI/10-1/blob/main/img/1-4.png)
+
 [Файл PKT](https://github.com/Markin-AI/10-1/blob/main/files/hsrp_advanced.pkt)
 
 ---
