@@ -43,7 +43,7 @@ else
 fi
 ```
 
-[Keepalived.conf](https://github.com/Markin-AI/10-1/tree/main/files/keepalived.conf)
+[Файл keepalived.conf](https://github.com/Markin-AI/10-1/tree/main/files/keepalived.conf)
 
 ![Задание 2-1 ](https://github.com/Markin-AI/10-1/blob/main/img/2-1.png)
 
