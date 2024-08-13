@@ -34,6 +34,8 @@
 
 ### Решение 2
 
+check_nginx.sh 
+
 ```
 #!/bin/bash
 if [[ $(netstat -tuln | grep LISTEN | grep :80) ]] && [[ -f /var/www/html/index.nginx-debian.html ]]; then
@@ -43,7 +45,9 @@ else
 fi
 ```
 
+
 [Файл keepalived.conf](https://github.com/Markin-AI/10-1/tree/main/files/keepalived.conf)
+
 
 ![Задание 2-1 ](https://github.com/Markin-AI/10-1/blob/main/img/2-1.png)
 
