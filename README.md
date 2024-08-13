@@ -34,6 +34,17 @@
 
 ### Решение 2
 
+```
+#!/bin/bash
+if [[ $(netstat -tuln | grep LISTEN | grep :80) ]] && [[ -f /var/www/html/index.nginx-debian.html ]]; then
+        exit 0
+else
+        sudo systemctl stop keepalived
+fi
+```
 
+![Задание 2-1 ](https://github.com/Markin-AI/10-1/blob/main/img/2-1.png)
+
+![Задание 2-2 ](https://github.com/Markin-AI/10-1/blob/main/img/2-2.png)
 
 ---
